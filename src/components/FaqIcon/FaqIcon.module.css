@@ -1,0 +1,17 @@
+.header {
+  color: #333;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  letter-spacing: -2px;
+  /* margin-right: 410px; */
+}
+
+@media (min-width: 768px) {
+  .header {
+    margin-top: 80px;
+    font-size: 128px;
+    line-height: 128px;
+  }
+}

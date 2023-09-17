@@ -1,0 +1,9 @@
+.svg_container.flipped {
+  transform: scaleY(-1);
+}
+
+.arrow_mouse{
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}

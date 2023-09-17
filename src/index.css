@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "MegaFon Graphik LC Web Smbd Regular";
+  src: url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.eot");
+  src: url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.svg#MegaFon Graphik LC Web Smbd Regular")format("svg");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+body {
+  font-family: "MegaFon Graphik LC Web Smbd Regular";
+  display: block;
+}
