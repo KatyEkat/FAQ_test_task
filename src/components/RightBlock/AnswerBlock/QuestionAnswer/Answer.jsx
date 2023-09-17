@@ -7,8 +7,6 @@ function Answer() {
    <div className={styles.a_block}>
     <h3 className={styles.qa_heading}>Ответ</h3>
    </div>
-
-   
   );
 }
 

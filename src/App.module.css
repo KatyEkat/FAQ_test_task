@@ -1,8 +1,3 @@
- /* @font-face {
-  font-family: "MegaFon Graphik LC";
-  src: url("https://static.figma.com/webfont/1/Inter-SemiBold.woff2?v=3.10"); 
-}  */
-
 .main {
   display: flex;
   justify-content: center;

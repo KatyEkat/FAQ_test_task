@@ -19,8 +19,8 @@ const Question = ({ title, answer, id, onYes, onNo, categoryId }) => {
   };
 
   return (
-    <>
-      <div className={styles.row}>
+    <div className={styles.mini_block}>
+      <div className={classNames(styles.row, styles.row_content)}>
         <div className={styles.text_block}>
           <p className={classNames(styles.sub_title, styles.title_question)}>
             ВОПРОС
@@ -57,7 +57,7 @@ const Question = ({ title, answer, id, onYes, onNo, categoryId }) => {
         </>
       )}
       <div className={styles.mini_block_border}></div>
-    </>
+    </div>
   );
 };
 

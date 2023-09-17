@@ -6,9 +6,7 @@ function QuestionAnswer() {
   return (
    <div className={styles.q_block}>
     <h3 className={styles.qa_heading}>Вопрос</h3>
-   </div>
-
-   
+   </div> 
   );
 }
 

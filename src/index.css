@@ -1,11 +1,31 @@
 @font-face {
   font-family: "MegaFon Graphik LC Web Smbd Regular";
   src: url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.eot");
-  src: url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.eot?#iefix")format("embedded-opentype"),
-  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff2")format("woff2"),
-  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff")format("woff"),
-  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.ttf")format("truetype"),
-  url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.svg#MegaFon Graphik LC Web Smbd Regular")format("svg");
+  src: url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/21d12c1fb1566e0685bb6ace3a747dde.svg#MegaFon Graphik LC Web Smbd Regular")
+      format("svg");
+}
+
+@font-face {
+  font-family: "MegaFon Graphik LC Web Reg Regular";
+  src: url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.eot");
+  src: url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2684398d473569bfdd3b71e2f2b79cda.svg#MegaFon Graphik LC Web Reg Regular")
+      format("svg");
 }
 
 * {
